@@ -1,4 +1,4 @@
-CLOUD ASSIGNMENT-1
+CLOUD ASSIGNMENT-1 (Feb 2019)
 
 Deployed an application that generates the sum of first n natural numbers. Given a number the application that returns the sum of 1 to n given numbers. This application accepts inputs up to 1000000.
 
